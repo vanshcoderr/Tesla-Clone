@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: ubuntu;
+  color:#393c41;
+}
+body{
+  width: 100%;
+  overflow-x: hidden;
+}
+.Close{
+  position: absolute;
+  top: 20px;
+  right: 25px;
+  font-size: 25px;
+  cursor: pointer;
+}
+.container{
+  z-index: 0
+}
